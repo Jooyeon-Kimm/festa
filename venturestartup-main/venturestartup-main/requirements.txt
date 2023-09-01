@@ -1,0 +1,5 @@
+openai
+PyKakao
+google_auth_oauthlib
+googleapiclient
+streamlit
