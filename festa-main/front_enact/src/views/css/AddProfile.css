@@ -1,0 +1,12 @@
+.main-container-addprofile {
+    margin: auto;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+.box1-addprofile{
+    display:flex;
+    flex-direction: row;
+    padding-right: 5%;
+    padding-bottom: 5%;
+}

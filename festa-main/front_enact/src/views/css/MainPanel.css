@@ -1,0 +1,32 @@
+
+.main-container {
+    margin: auto;
+    display: flex;
+    flex-direction: column;
+  }
+
+  .header-name{
+    color:black;
+    position: relative;
+    left: 0px;
+    top: 10%;
+  }
+  .box-main{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  .box-one {
+    position: relative;
+    left: 0px;
+    top: 150px;
+  }
+  .box-two {
+    margin-bottom: 500px;
+    position: relative;
+    left: 0px;
+    top: 250px;
+    
+  }
+
+ 

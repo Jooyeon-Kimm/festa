@@ -1,0 +1,17 @@
+.main-container3 {
+    padding-top : 150px;
+    margin: auto;
+    display: flex;
+    flex-direction:column;
+    justify-content: center;
+    align-items: center;
+    gap: 150px; /* 구역간의 간격 */
+  }
+
+
+ .center {
+        display: block;
+        grid-template-columns: 1fr 150px;
+        width: 50%;
+ }
+ 

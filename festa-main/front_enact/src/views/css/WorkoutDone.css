@@ -1,0 +1,25 @@
+.main-container-workoutdone {
+    margin: auto;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding-top: 1%;
+  }
+  .workoutdone-box1{
+    padding-top: 1%;
+    padding-right : 7%;
+  }
+  .workoutdone-box2{
+    padding-top: 2%;
+  }
+  .workoutdone-box3{
+    padding-top: 2%;
+    padding-right:3%;
+  }
+  .workoutdone-box4{
+    padding-top: 2%;
+    padding-right:5%;
+  }
+  .workoutdone-button{
+    top : 100px;
+  }
